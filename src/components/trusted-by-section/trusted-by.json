@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_trusted_by_trusted_bies",
+  "info": {
+    "displayName": "TrustedBySection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "BrandLogo": {
+      "displayName": "Brands",
+      "type": "component",
+      "repeatable": true,
+      "component": "brands.brands"
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

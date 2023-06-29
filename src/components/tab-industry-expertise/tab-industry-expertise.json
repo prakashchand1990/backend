@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_tab_industry_expertise_tab_industry_expertises",
+  "info": {
+    "displayName": "TabIndustryExpertise"
+  },
+  "options": {},
+  "attributes": {
+    "TabContent": {
+      "displayName": "Tabs",
+      "type": "component",
+      "repeatable": true,
+      "component": "tabs.tabs"
+    }
+  }
+}

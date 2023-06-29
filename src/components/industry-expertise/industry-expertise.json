@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_industry_expertise_industry_expertises",
+  "info": {
+    "displayName": "IndustryExpertise",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "HeaderPart": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "Tabs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tabs.tabs"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    }
+  }
+}
